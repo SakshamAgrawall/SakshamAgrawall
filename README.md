@@ -22,7 +22,7 @@
 <a href="https://twitter.com/sakshamaagraw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sakshamaagraw" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/saksham agrawal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saksham agrawal" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sakshamagrawal18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sakshamagrawal18" height="30" width="40" /></a>
- <a href="https://replit.com/@SakshamAgrawal5" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Repl.it_logo.svg" alt="sakshamagrawal18" height="40" width="50" /></a>
+ <a href="https://replit.com/@SakshamAgrawal5" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Repl.it_logo.svg" alt="SakshamAgrawal5" height="40" width="50" /></a>
 </p>
 <hr>
 <h3 align="center">Languages and Tools:</h3>
