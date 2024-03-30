@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/sakshamaagraw" target="blank"><img src="https://img.shields.io/twitter/follow/sakshamaagraw?logo=twitter&style=for-the-badge" alt="sakshamaagraw" /></a> </p>
 
-- 🌱 I’m currently learning **Full Stack web development**
+- 🌱 I’m currently **Front-end developer** at Drall and Dholiya Private Limited
 
 - 💬 Ask me about **full Stack web develeopement with web3.0**
 
