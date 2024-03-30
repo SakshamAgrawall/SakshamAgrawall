@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently **Front-end developer** at Drall and Dholiya Private Limited
 
-- 💬 Ask me about **full Stack web develeopement with web3.0**
+- 💬 Ask me about **full Stack web develeopement**
 
 - 📫 How to reach me **sakshmagrawal18@gmail.com**
 
