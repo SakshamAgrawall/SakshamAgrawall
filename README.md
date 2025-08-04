@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/sakshamaagraw" target="blank"><img src="https://img.shields.io/twitter/follow/sakshamaagraw?logo=twitter&style=for-the-badge" alt="sakshamaagraw" /></a> </p>
 
-- 🌱 I’m currently **Full Stack developer** at Drall and Dholiya Private Limited
+- 🌱 I’m currently **Software Engineer** at Tekonika Technologies
 
 - 💬 Ask me about **full Stack web develeopement**
 
